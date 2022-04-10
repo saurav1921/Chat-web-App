@@ -1,4 +1,4 @@
-# chattx is a web app based on PHP,MYSQL and JavaScript.
+# chattx is a Chatting Web app based on PHP,MYSQL,HTML,CSS and JAVASCRIPT.
 
 ![1](https://user-images.githubusercontent.com/56466543/161477424-b13208d7-5d33-4de4-92aa-7e47f43cae36.png)
 ![6](https://user-images.githubusercontent.com/56466543/161477429-68d571e2-6421-494d-a6e0-786186d3f0db.png)
